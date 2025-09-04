@@ -1,11 +1,5 @@
 # 📝 Employee Management Java
 
-![Java](https://img.shields.io/badge/Java-11%2B-red?logo=java&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Issues](https://img.shields.io/github/issues/MBAHSINGO22/Employee_Management_Java)
-![Forks](https://img.shields.io/github/forks/MBAHSINGO22/Employee_Management_Java?style=social)
-![Stars](https://img.shields.io/github/stars/MBAHSINGO22/Employee_Management_Java?style=social)
-
 **Sistem Pengelolaan Gaji Karyawan berbasis Java**  
 Aplikasi untuk menghitung gaji karyawan tetap dan kontrak dengan tunjangan anak.  
 
